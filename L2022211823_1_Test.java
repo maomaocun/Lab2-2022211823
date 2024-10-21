@@ -1,6 +1,6 @@
-import static org.junit.Assert.assertEquals;
-import org.junit.Test;
 
+import static org.testng.AssertJUnit.assertEquals;
+import org.testng.annotations.Test;
 /**
  * 测试类设计原则：
  * 1. 等价类划分：
